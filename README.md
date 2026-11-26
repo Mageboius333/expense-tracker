@@ -1,4 +1,4 @@
-\# Expense Tracker v1.1
+# Expense Tracker v1.1
 
 
 
@@ -6,19 +6,19 @@
 
 
 
-\## Технологии
+## Технологии
 
-\- Python 3
+- Python 3
 
 
 
-\## Статус
+## Статус
 
 Проект находится в разработке.
 
 
 
-\## Автор
+## Автор
 
 Начинающий Python Backend Developer
 
